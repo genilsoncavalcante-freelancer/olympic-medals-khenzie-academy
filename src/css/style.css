@@ -121,7 +121,8 @@ main article section .linha .total{
 }
 
 footer {
-    color: aliceblue;
+    margin-top: auto;
+    color: blue;
     text-align: center;
     font-style: italic;
     font-size: 13pt;
@@ -131,5 +132,5 @@ footer p a {
     font-weight: bold;
 }
 footer p a:hover{
-    color: aliceblue;
+    color: blue;
 }
