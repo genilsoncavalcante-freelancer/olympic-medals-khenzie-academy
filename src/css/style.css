@@ -121,8 +121,8 @@ main article section .linha .total{
 }
 
 footer {
-    margin-top: 150px;
-    margin-bottom: 15px;
+    margin-top: 180px;
+    margin-bottom: 20px;
     color: blue;
     text-align: center;
     font-style: italic;
@@ -134,4 +134,5 @@ footer p a {
 }
 footer p a:hover{
     color: blue;
+    border-bottom: 1px solid blue;
 }
